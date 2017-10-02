@@ -17,4 +17,4 @@ http
   })
   .listen(port);
 
-console.log('Listening on http://localhost:%d', port) //eslint-disable-line
+console.log('Listening on http://localhost:%d', port);
